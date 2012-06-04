@@ -1,2 +1,0 @@
-Sankore-Search-Widgets
-======================
